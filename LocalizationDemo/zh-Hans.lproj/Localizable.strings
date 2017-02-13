@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LocalizationDemo
+
+  Created by Frank.Chen on 2017/2/12.
+  Copyright © 2017年 Frank.Chen. All rights reserved.
+*/
+
+"TestLocalization" = "你好吗?";

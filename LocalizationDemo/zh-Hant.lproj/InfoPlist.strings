@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  LocalizationDemo
+
+  Created by Frank.Chen on 2017/2/13.
+  Copyright © 2017年 Frank.Chen. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "本地化測試";
